@@ -1,3 +1,5 @@
-# md-experiments
+= md-experiments
+
 include::ch1.md[]
+
 include::ch2.md[]
