@@ -1,5 +1,5 @@
-. md-experiments
+= md-experiments
 ,===
-include::ch1.adoc[]
+include::ch1.txt[]
 ,===
-include::ch2.adoc[]
+include::ch2.txt[]
