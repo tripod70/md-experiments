@@ -1,5 +1,5 @@
 = md-experiments
 
-include::ch1.md[]
+include::ch1.adoc[]
 
-include::ch2.md[]
+include::ch2.adoc[]
